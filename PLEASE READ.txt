@@ -1,0 +1,1 @@
+To run, click the first thing in the folder named Final Project.jar and from there click on the "view tutorials button" to learn to play. If that doesn't work just open the start class in JGrasp run and compile it
